@@ -1,32 +1,27 @@
----
-title: 'The Rhizomatic Improvisation System'
-author: 
-    - name: Roger Alsop
-      affiliation: Faculty of Fine Arts and Music University of Melbourne
-      city: Melbourne
-      country: Australia
-      email: rogeralsop@gmail.com
-author-header: R. Alsop
-abstract: |
-    This paper discusses the Rhizomatic Improvisation System for various instruments and electronics. I have performed works in Melbourne and Prague under the pseudonym Delusion Guitari, playing guitar into this system which comprises of randomly timed delays and effects with the signal from each delay and effects being broadcast through a multi speaker system.
+Faculty of Fine Arts and Music
 
-    The random delay times may be from one millisecond to 20 minutes, and the feedback for each delay is infinite. This results in an improvisation system in which every improvised action is perpetually re-played into the performance environment at an unpredictable time. For the improviser this creates a situation in which each action becomes part of each subsequent and preceding action, and as these actions concatenate and coincide a sonic environment is built. 
+University of Melbourne
 
-    The idea behind the development of this system is to create an improvisational environment in which memory and intention are linked to prediction and responsibility.
-anonymous: 'false'
-bibliography: 'references'
-papersize: a4
-classoption: 12pt
-secnumdepth: 3
-reference-section-title: 'References'
-year: 2023
-volume: 39
-number: 2
-article-no: 4
-date: '2023-07-13'
-accepted-date: '2023-08-06'
-published-date: '2023-10-09'
----
+Aug 6, 2023
+
+This paper discusses the Rhizomatic Improvisation System for various
+instruments and electronics. I have performed works in Melbourne and
+Prague under the pseudonym Delusion Guitari, playing guitar into this
+system which comprises of randomly timed delays and effects with the
+signal from each delay and effects being broadcast through a multi
+speaker system.
+
+The random delay times may be from one millisecond to 20 minutes, and
+the feedback for each delay is infinite. This results in an
+improvisation system in which every improvised action is perpetually
+re-played into the performance environment at an unpredictable time. For
+the improviser this creates a situation in which each action becomes
+part of each subsequent and preceding action, and as these actions
+concatenate and coincide a sonic environment is built.
+
+The idea behind the development of this system is to create an
+improvisational environment in which memory and intention are linked to
+prediction and responsibility.
 
 # Introduction
 
@@ -89,7 +84,7 @@ mistakes are made; is it a conversation with non-lexical sounds; and/or
 is it culturally based? This is just scratching the surface.
 
 As well as these discussions there are also many systems of
-improvisation, such as the Indian rag, George Russell (1974) and Barry
+improvisation, such as the Indian rag, George Russell (1974)and Barry
 Harris' (Ciacca, n.d., pp. 6--23) systems of jazz improvisation, Derek
 Bailey's curatorial approach (Childs et al., 1982, p. 20) and Ornette
 Coleman's Harmolodics (1983). Each of these systems, which can be
@@ -229,7 +224,10 @@ this version a 16-speaker broadcast system was used, with speakers in
 the places shown in Figure 3. These positions can be changed as needed,
 as can the number of broadcast speakers and their configuration.
 
-![Rhizomatic Improvisation System](./media/image1.png)
+![](./media/image1.png){width="6.448580489938758in"
+height="3.774510061242345in"}
+
+Figure 1: Rhizomatic Improvisation System
 
 Figure 1 shows the entire interface of the Rhizomatic Improvisation
 System as used in performance in the Divaldo Inspirace, Prague. It is
@@ -237,7 +235,10 @@ designed to allow quick access to important user controls, and to give
 clear feedback of the changes in parameters and that occur during
 performance.
 
-![Delay section](./media/image2.png){ width=80% }
+![](./media/image2.png){width="5.166066272965879in"
+height="1.3522265966754157in"}
+
+Figure 2 Delay section
 
 Figure 2 shows the delay section prior to delay times being set. From
 left to right we see a button to turn off all delays, underneath that is
@@ -248,9 +249,12 @@ these controls are eight repeating controls/indicators relating to each
 delay line. These are, a button to turn off that specific delay, the
 delay time, the feedback for that delay line. The delay time is usually
 randomly set through the delay spatialization randomizer system, shown
-in Figure 5.
+in figure 5.
 
-![Speaker spatialization outline](./media/image3.png){ width=50% }
+![](./media/image3.png){width="3.631327646544182in"
+height="3.631327646544182in"}
+
+Figure 3: Speaker spatialization outline
 
 Figure 3 shows the approximate placement of speakers in the Divaldo
 Inspirace. The speaker positions can be moved according to the systems
@@ -258,7 +262,10 @@ that are being used. It is also possible to increase or decrease the
 number of speakers for sound to be broadcast through end accordance with
 the technology is available.
 
-![Sound movement system](./media/image4.png){ width=25% }
+![](./media/image4.png){width="2.9890496500437447in"
+height="3.434785651793526in"}
+
+Figure 4: sound movement system
 
 Figure 4 is an example of the positioning of sounds within the speaker
 system shown in Figure 3. In this case twenty-nine possible sound
@@ -274,7 +281,10 @@ any accuracy where a sound source may come from; this would add to the
 sense of, and requirement for, immediate re-activeness by the
 improviser.
 
-![Delay and spatialization randomizer](./media/image5.png){ width=25% }
+![](./media/image5.png){width="1.5797156605424323in"
+height="1.7771806649168853in"}
+
+Figure 5: delay and spatialization randomizer
 
 The delay and spatialization randomizer section is the most important
 part of the Rhizomatic Improvisation System. Here the delay times and
@@ -297,16 +307,22 @@ presets is set to 18 only 18 of the possible 700 positions for sound
 will be used, and only 18 of the possible transit times between one
 sound position and another will be used.
 
-![Example of possible delay times](./media/image6.png){ width=80% }
+![](./media/image6.png){width="6.263888888888889in"
+height="1.6833333333333333in"}
+
+Figure 6: Example of possible delay times
 
 An example of the possible delay times generated with this set of
-numbers is shown in Figure 6. Here the delay times range from 3.9
+numbers is shown in Figure 6**.** Here the delay times range from 3.9
 seconds to 59.7 seconds, and with a feedback quotient of 1, which means
 that the delays will continue until the system is turned off. It is
 possible to lower the feedback level, resulting in fewer repeats; this
 would be at the discretion of the improviser.
 
-![Effects and output](./media/image7.png){ width=30% }
+![](./media/image7.png){width="3.464985783027122in"
+height="3.6217727471566055in"}
+
+Figure 7: Effects and output
 
 Figure 7 shows the effects an output system. In this case the
 TAL-Reverb-2 (TAL Software, 2023). It is possible for any software
@@ -319,7 +335,11 @@ however this would require adjustment to the controls shown and what
 they effect. Here the dry signal from the input and signals from the
 delay units go into the effect units.
 
-![Composition design interface](./media/image8.png){ width=80% }
+![A graph on a screen Description automatically
+generated](./media/image8.png){width="6.263888888888889in"
+height="1.6201388888888888in"}
+
+Figure 8: Composition design interface
 
 Figure 8 provides an interface that can be used to affect some of the
 variables in the automatic improvisation system. Here the variables are:
@@ -331,13 +351,18 @@ speakers), these are represented by the different coloured lines.
 
 Ambi order sets the width of the sound in the speaker system, which
 creates a focused location of the sound within the speaker system.
-Figure 9, shows an order of 20 which would create a very
+Figure [9]{.underline}, shows an order of 20 which would create a very
 located image of the sound, and Figure 10, with an order of 0, would
 create very diffused image of the sound.
 
-![Ambi order of 20](./media/image9.png){ width=40% }
+![A screen shot of a graph Description automatically
+generated](./media/image9.png){width="2.917361111111111in"
+height="3.2083333333333335in"}![A screen shot of a graph Description
+automatically
+generated](./media/image10.png){width="2.9583333333333335in"
+height="3.1805555555555554in"}
 
-![Ambi order of 0](./media/image10.png){ width=40% }
+Figure 10: Ambi order of 0
 
 In Figure 8 we see the Ambi order (the yellow line) at a high level that
 then reduces towards the end of the time allocated for performance. In
@@ -381,7 +406,11 @@ interacting individuals," (Wiltshire & Fairhurst, 2022, p. 2). In
 western composition there is the use of rhythmic, melodic, and harmonic
 cadences. For example, the phrase
 
-![Melody fragment](./media/image11.png){ width=25% }
+![A black and white sheet music Description automatically
+generated](./media/image11.png){width="2.3333333333333335in"
+height="0.8529122922134733in"}
+
+Figure 11: Melody fragment
 
 creates a prediction of subsequent notes to be heard in both the
 performer and the listener. If this prediction is not fulfilled a
@@ -438,10 +467,6 @@ all future acts that I find satisfactory. The rhizomatic improvisation
 system is an approach which enables and begins to explore that question.
 
 # References
-
-```{=latex}
-\begin{hangparas}{1.5em}{1}
-```
 
 Atkinson, R. C., & Wickens, T. D. (1971). Human memory and the concept
 of reinforcement. *The Nature of Reinforcement*, 66--120. Retrieved from
@@ -502,10 +527,6 @@ Information-driven coordination dynamics and prediction in movement and
 musical improvisation. In *The Routledge International Handbook of
 Creative Cognition* (pp. 624--645). Routledge. Retrieved from Google
 Scholar
-
-```{=latex}
-\end{hangparas}
-```
 
 [^1]: Perceived challenges, or opportunities for action, that stretch
     (neither overmatching nor underutilizing) existing skills; a sense
