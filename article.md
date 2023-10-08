@@ -2,7 +2,7 @@
 title: 'The Rhizomatic Improvisation System'
 author: 
     - name: Roger Alsop
-      affiliation: Faculty of Fine Arts and Music University of Melbourne
+      affiliation: Faculty of Fine Arts and Music, University of Melbourne
       city: Melbourne
       country: Australia
       email: rogeralsop@gmail.com
@@ -227,7 +227,7 @@ this version a 16-speaker broadcast system was used, with speakers in
 the places shown in Figure 3. These positions can be changed as needed,
 as can the number of broadcast speakers and their configuration.
 
-![Rhizomatic Improvisation System](./media/image1.png)
+![Rhizomatic Improvisation System](./media/image1.jpg)
 
 Figure 1 shows the entire interface of the Rhizomatic Improvisation
 System as used in performance in the Divaldo Inspirace, Prague. It is
@@ -235,7 +235,7 @@ designed to allow quick access to important user controls, and to give
 clear feedback of the changes in parameters and that occur during
 performance.
 
-![Delay section](./media/image2.png){ width=80% }
+![Delay section](./media/image2.jpg){ width=80% }
 
 Figure 2 shows the delay section prior to delay times being set. From
 left to right we see a button to turn off all delays, underneath that is
@@ -248,7 +248,7 @@ delay time, the feedback for that delay line. The delay time is usually
 randomly set through the delay spatialization randomizer system, shown
 in Figure 5.
 
-![Speaker spatialization outline](./media/image3.png){ width=50% }
+![Speaker spatialization outline](./media/image3.jpg){ width=50% }
 
 Figure 3 shows the approximate placement of speakers in the Divaldo
 Inspirace. The speaker positions can be moved according to the systems
@@ -256,7 +256,7 @@ that are being used. It is also possible to increase or decrease the
 number of speakers for sound to be broadcast through end accordance with
 the technology is available.
 
-![Sound movement system](./media/image4.png){ width=25% }
+![Sound movement system](./media/image4.jpg){ width=25% }
 
 Figure 4 is an example of the positioning of sounds within the speaker
 system shown in Figure 3. In this case twenty-nine possible sound
@@ -272,7 +272,7 @@ any accuracy where a sound source may come from; this would add to the
 sense of, and requirement for, immediate re-activeness by the
 improviser.
 
-![Delay and spatialization randomizer](./media/image5.png){ width=25% }
+![Delay and spatialization randomizer](./media/image5.jpg){ width=25% }
 
 The delay and spatialization randomizer section is the most important
 part of the Rhizomatic Improvisation System. Here the delay times and
@@ -295,7 +295,7 @@ presets is set to 18 only 18 of the possible 700 positions for sound
 will be used, and only 18 of the possible transit times between one
 sound position and another will be used.
 
-![Example of possible delay times](./media/image6.png){ width=80% }
+![Example of possible delay times](./media/image6.jpg){ width=80% }
 
 An example of the possible delay times generated with this set of
 numbers is shown in Figure 6. Here the delay times range from 3.9
@@ -304,7 +304,7 @@ that the delays will continue until the system is turned off. It is
 possible to lower the feedback level, resulting in fewer repeats; this
 would be at the discretion of the improviser.
 
-![Effects and output](./media/image7.png){ width=30% }
+![Effects and output](./media/image7.jpg){ width=30% }
 
 Figure 7 shows the effects an output system. In this case the
 TAL-Reverb-2 (TAL Software, 2023). It is possible for any software
@@ -317,7 +317,7 @@ however this would require adjustment to the controls shown and what
 they effect. Here the dry signal from the input and signals from the
 delay units go into the effect units.
 
-![Composition design interface](./media/image8.png){ width=80% }
+![Composition design interface](./media/image8.jpg){ width=80% }
 
 Figure 8 provides an interface that can be used to affect some of the
 variables in the automatic improvisation system. Here the variables are:
@@ -333,9 +333,9 @@ Figure 9, shows an order of 20 which would create a very
 located image of the sound, and Figure 10, with an order of 0, would
 create very diffused image of the sound.
 
-![Ambi order of 20](./media/image9.png){ width=40% }
+![Ambi order of 20](./media/image9.jpg){ width=40% }
 
-![Ambi order of 0](./media/image10.png){ width=40% }
+![Ambi order of 0](./media/image10.jpg){ width=40% }
 
 In Figure 8 we see the Ambi order (the yellow line) at a high level that
 then reduces towards the end of the time allocated for performance. In
@@ -379,7 +379,7 @@ interacting individuals," (Wiltshire & Fairhurst, 2022, p. 2). In
 western composition there is the use of rhythmic, melodic, and harmonic
 cadences. For example, the phrase
 
-![Melody fragment](./media/image11.png){ width=25% }
+![Melody fragment](./media/image11.jpg){ width=25% }
 
 creates a prediction of subsequent notes to be heard in both the
 performer and the listener. If this prediction is not fulfilled a
