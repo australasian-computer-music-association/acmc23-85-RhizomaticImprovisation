@@ -9,9 +9,7 @@ author:
 author-header: R. Alsop
 abstract: |
     This paper discusses the Rhizomatic Improvisation System for various instruments and electronics. I have performed works in Melbourne and Prague under the pseudonym Delusion Guitari, playing guitar into this system which comprises of randomly timed delays and effects with the signal from each delay and effects being broadcast through a multi speaker system.
-
     The random delay times may be from one millisecond to 20 minutes, and the feedback for each delay is infinite. This results in an improvisation system in which every improvised action is perpetually re-played into the performance environment at an unpredictable time. For the improviser this creates a situation in which each action becomes part of each subsequent and preceding action, and as these actions concatenate and coincide a sonic environment is built. 
-
     The idea behind the development of this system is to create an improvisational environment in which memory and intention are linked to prediction and responsibility.
 anonymous: 'false'
 bibliography: 'references'
@@ -58,7 +56,7 @@ sometimes merge\[s\] with them" (13), and so on. They also state that
 
 The Rhizomatic Improvisation System embraces these understandings. It
 creates an outcome that must be made and is made in its multiple ways of
-making, where all points are connected and these connections become
+making, where all points are connected, and these connections become
 semiotic chains that make organizations of power even though the points
 and positions of each element made are individually powerless and are
 ephemeral and momentary in time and space, the generation of structures
@@ -77,14 +75,14 @@ improvisation is like conversation." Miles Davis is quoted as saying "If
 you're not making a mistake, it's a mistake."; that and other quotes by
 Davis can be found at (Western, 2023). David Toop (2008, p. 121) saw
 differences in improvisation styles and approaches, saying "Dutch
-improvisation was associated with humour, for example; German with high
+improvisation was associated with humour, for example: German with high
 energy free jazz; American with either the jazz tradition or the
 influence of John Cage and indeterminacy; British with a more
 intellectual, finely detailed approach."
 
 The discussion above ranges across many possible topics within musical
 improvisation, raising questions such as: is improvisation an embodiment
-of discursive power relationships; is it a musical practice in which
+of discursive power relationships, is it a musical practice in which
 mistakes are made; is it a conversation with non-lexical sounds; and/or
 is it culturally based? This is just scratching the surface.
 
@@ -189,7 +187,7 @@ present, and potential/future activity as contexts that that have an
 equal structural value and influence. The improvisor must consider any
 possible future results of any action, deliberate or not, with the
 absolute understanding that that action will revisit at an unexpected
-time. Therefore, it will recontextualizing the structural value all
+time. Therefore, it will recontextualize the structural value all
 other past, current, and future actions.
 
 This approach has a further overarching context, which focuses on
@@ -363,7 +361,7 @@ performer of simultaneously attending to the past, present, and
 future(s) in each action.
 
 When performing the performer is aware of the audience and, if present,
-collaborators. this awareness may manifest as between willful ignoring
+collaborators. this awareness may manifest as between wilful ignoring
 to pandering. When improvising, and particularly when improvising
 without a pre-ordained structure or context, there is a heightened
 awareness of the actions of collaborators. This awareness then forms
@@ -371,7 +369,7 @@ sets of possibilities that the improviser may use, but this awareness is
 based on the improvisor's short term/working memory (about 15 to 30
 seconds (Atkinson & Wickens, 1971)) of recent actions/events and a
 consequent sense of forthcoming potential events afforded by those
-actions/events and how these may fit withing the developing contexts
+actions/events and how these may fit within the developing contexts
 that are made.
 
 A primary function in the performance and enjoyment of music is
